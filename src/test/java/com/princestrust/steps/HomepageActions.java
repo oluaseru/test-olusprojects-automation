@@ -1,10 +1,8 @@
 package com.princestrust.steps;
 
 import com.princestrust.support.pageobject.HomePage;
-import com.princestrust.support.pageobject.NewsAndViewsPage;
 import com.princestrust.support.pageobject.SearchResultsPage;
 import com.princestrust.utilities.DriverFactory;
-import com.princestrust.utilities.DriverUtilities;
 import com.princestrust.utilities.WaitHelper;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
