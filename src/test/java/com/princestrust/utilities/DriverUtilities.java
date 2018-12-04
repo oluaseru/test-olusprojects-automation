@@ -1,8 +1,6 @@
 package com.princestrust.utilities;
 
-import com.princestrust.support.pageobject.HomePage;
 import org.openqa.selenium.*;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.apache.commons.io.FileUtils;
 
