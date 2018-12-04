@@ -8,7 +8,7 @@ Instructions:
 
 2.Import this project as a maven project in e.g. IntelliJ, verify all dependencies have been downloaded from POM.xml without issues.
 
-3.Run the example cucumber Selenium test by naviogating to the RunCucumberTest.class in: 
+3.Run the example cucumber Selenium test by navigating to the RunCucumberTest.class in: 
 test-olusprojects-automation/src/test/java/com/princestrust/runners
 
 
