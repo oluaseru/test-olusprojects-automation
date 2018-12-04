@@ -1,6 +1,6 @@
 # test-olusprojects-automation
 
-An Selenium / cucumber (java) example project for functional testing PrincesTrustwebsite on Chrome browser client
+An Selenium / cucumber (java) example project for functional testing PrincesTrust website on Chrome browser client
 
 Instructions:
 
